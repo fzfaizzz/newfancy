@@ -1,0 +1,86 @@
+
+File: C:\Users\akhta\Desktop\barber\backend\controllers\authController.js
+  Line 1: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 2: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+
+File: C:\Users\akhta\Desktop\barber\backend\controllers\bookingController.js
+  Line 1: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 2: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+
+File: C:\Users\akhta\Desktop\barber\backend\controllers\reviewController.js
+  Line 1: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 2: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+
+File: C:\Users\akhta\Desktop\barber\backend\middleware\authMiddleware.js
+  Line 1: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 2: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 22: 'err' is defined but never used. (@typescript-eslint/no-unused-vars)
+
+File: C:\Users\akhta\Desktop\barber\backend\models\Booking.js
+  Line 1: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+
+File: C:\Users\akhta\Desktop\barber\backend\models\Review.js
+  Line 1: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+
+File: C:\Users\akhta\Desktop\barber\backend\models\Service.js
+  Line 1: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 3: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+
+File: C:\Users\akhta\Desktop\barber\backend\models\User.js
+  Line 1: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 2: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+
+File: C:\Users\akhta\Desktop\barber\backend\routes\adminRoutes.js
+  Line 1: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 2: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 3: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 4: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+
+File: C:\Users\akhta\Desktop\barber\backend\routes\authRoutes.js
+  Line 1: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 2: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 3: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+
+File: C:\Users\akhta\Desktop\barber\backend\routes\bookingRoutes.js
+  Line 1: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 2: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 3: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+
+File: C:\Users\akhta\Desktop\barber\backend\routes\reviewRoutes.js
+  Line 1: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 2: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 3: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+
+File: C:\Users\akhta\Desktop\barber\backend\server.js
+  Line 1: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 2: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 3: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 4: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 5: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 6: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 33: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 34: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 35: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 36: A `require()` style import is forbidden. (@typescript-eslint/no-require-imports)
+  Line 43: 'next' is defined but never used. (@typescript-eslint/no-unused-vars)
+
+File: C:\Users\akhta\Desktop\barber\src\app\layout.tsx
+  Line 21: Custom fonts not added in `pages/_document.js` will only load for a single page. This is discouraged. See: https://nextjs.org/docs/messages/no-page-custom-font (@next/next/no-page-custom-font)
+
+File: C:\Users\akhta\Desktop\barber\src\components\Experience.tsx
+  Line 3: 'CheckCircle2' is defined but never used. (@typescript-eslint/no-unused-vars)
+  Line 24: `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`. (react/no-unescaped-entities)
+  Line 65: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element (@next/next/no-img-element)
+
+File: C:\Users\akhta\Desktop\barber\src\components\Hero.tsx
+  Line 9: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element (@next/next/no-img-element)
+
+File: C:\Users\akhta\Desktop\barber\src\components\Satisfaction.tsx
+  Line 66: `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`. (react/no-unescaped-entities)
+  Line 66: `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`. (react/no-unescaped-entities)
+
+File: C:\Users\akhta\Desktop\barber\src\components\Team.tsx
+  Line 56: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element (@next/next/no-img-element)
+
+File: C:\Users\akhta\Desktop\barber\src\components\WhyChooseUs.tsx
+  Line 27: Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element (@next/next/no-img-element)
