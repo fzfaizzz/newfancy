@@ -6,17 +6,17 @@ export default function Team() {
         {
             name: "Javed Ali",
             role: "Senior Barber",
-            image: "/javed Ali.png",
+            image: "./javed Ali.png",
         },
         {
             name: "Amit Singh",
             role: "Hair Specialist",
-            image: "/team-amit.png",
+            image: "./team-amit.png",
         },
         {
             name: "Sunil Verma",
             role: "Beard Expert",
-            image: "/team-sunil.png",
+            image: "./team-sunil.png",
         }
     ];
 
